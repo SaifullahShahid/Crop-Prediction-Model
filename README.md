@@ -2,12 +2,10 @@
 
 This project is submitted by Saifullah Shahid (ARCH-2504-0071) & Faizullah Khan (ARCH-2504-0066) to complete our Task 1 of Manual 1 by Arch Technologies. This project aims to address this challenge by developing a crop prediction model that leverages machine learning techniques to provide farmers with informed recommendations.
 
-![project](https://github.com/UJJWAL1217/Team-48-Crop-Prediction/assets/80946857/71105ac0-4c56-4383-862a-5b8df2bdd0db)
+![project](https://github.com/SaifullahShahid/Crop-Prediction-Model/blob/master/static/ProjectPic.jpg)
 
 ## Project Demo
-[Our Project Demostration](https://drive.google.com/file/d/1GRYrHK0sChURvz-x0iQkAE02YF5aXxPx/view?usp=sharing)
-
-In this project demonstration video, we showcase the functionality and usage of our crop prediction model. The video provides a step-by-step walkthrough of the web application and demonstrates how farmers can input their local parameters to receive personalized crop recommendations. We also highlight the additional details provided by the model, such as required fertilizers, seeds, market prices, and potential yield for the recommended crop.
+[Project Demostration](https://youtu.be/og187CU9hqg)
 
 By watching the project demonstration video, you will get a clear understanding of how our crop prediction model works and how it can assist farmers in making informed decisions for successful crop cultivation.
 
