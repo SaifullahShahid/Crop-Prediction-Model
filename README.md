@@ -35,7 +35,7 @@ Dataset Source: [Crop Prediction Dataset](https://www.kaggle.com/datasets/atharv
 2. Click on the "Predict" button to receive the recommended crop along with additional details such as required fertilizers, seeds, market prices, and potential yield.
 
 ## Contributors
-- [Saifullah Shaid](https://github.com/SaifullahShahid)
+- [Saifullah Shahid](https://github.com/SaifullahShahid)
 - [Faizullah Khan](https://github.com/faizullahkhan1)
 
 
