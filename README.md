@@ -1,6 +1,6 @@
 # Crop-Prediction-Model
 
-This project is submitted by Saifullah Shahid (ARCH-2504-0071) & Faizullah Khan (ARCH-2504-0066) to complete our Task 1 of Manual 1 by Arch Technologies. This project aims to address this challenge by developing a crop prediction model that leverages machine learning techniques to provide farmers with informed recommendations.
+This project aims to address this challenge by developing a crop prediction model that leverages machine learning techniques to provide farmers with informed recommendations.
 
 ![project](https://github.com/SaifullahShahid/Crop-Prediction-Model/blob/master/static/ProjectPic.jpg)
 
